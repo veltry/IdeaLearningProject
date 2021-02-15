@@ -19,3 +19,6 @@ cat:
     - eat:
         condition: want to eat
         actions: [quietly ask for food]
+    - sleep:
+        condition: want to sleep
+        actions: [find any place and lie down]
