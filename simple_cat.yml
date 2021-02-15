@@ -15,6 +15,11 @@ cat:
   ear_number: 2
   paws_number: 4
 
+  favourite_things:
+    - bunch of candy wrappers
+    - tennis ball
+    - plush mouse
+
   behavior:
     - eat:
         condition: want to eat
