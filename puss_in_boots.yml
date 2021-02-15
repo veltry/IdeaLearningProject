@@ -18,3 +18,9 @@ cat:
     - sharp sword
     - awesome hat
     - black cloak
+
+  behavior:
+    - be_cute:
+        condition: wants everyone to come to tenderness
+        actions:
+          - make pretty eyes
