@@ -12,3 +12,10 @@ cat:
   eyes_number:   2
   ear_number:   2
   paws_number:   4
+
+  behavior:
+    - drive:
+        condition: boring
+        actions:
+          - put stones on the pedals
+          - steer standing on hind paws
