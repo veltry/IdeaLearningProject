@@ -10,3 +10,7 @@ cat:
   fur_colors: [ black ]
   tail_length: short
   eyes_colors: [ brown ]
+
+  eyes_number: 2
+  ear_number: 2
+  paws_number: 4
