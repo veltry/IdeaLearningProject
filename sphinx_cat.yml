@@ -3,3 +3,10 @@ cat:
   gender: male
   breed: sphinx
   personality_type: dominant
+  # long haired, short haired or hairless
+  fur_type: hairless
+  # solid, tabby or multi-color
+  fur_pattern: solid
+  fur_colors: [ white ]
+  tail_length: long
+  eyes_colors: [ green ]
