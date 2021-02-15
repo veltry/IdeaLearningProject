@@ -3,3 +3,8 @@ cat:
   gender: female
   breed: martian longhair
   personality_type: impulsiveness
+  fur_type: long haired
+  fur_pattern: solid
+  fur_colors: [ red ]
+  tail_length: short
+  eyes_colors: [ red, blue ]
