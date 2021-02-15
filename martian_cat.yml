@@ -8,3 +8,7 @@ cat:
   fur_colors: [ red ]
   tail_length: short
   eyes_colors: [ red, blue ]
+
+  eyes_number:   2
+  ear_number:   2
+  paws_number:   4
