@@ -19,3 +19,8 @@ cat:
         actions:
           - put stones on the pedals
           - steer standing on hind paws
+    - communicate:
+        condition: want to speak with someone
+        actions:
+          - turn on one of the rovers
+          - meow "Hmeowston, are meow hmeowing meo?"
