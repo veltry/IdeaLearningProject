@@ -13,6 +13,11 @@ cat:
   ear_number:   4
   paws_number:   4
 
+  favourite_things:
+    -marsian flowers
+    - two rovers
+    - crumpled Tesla roadster
+
   behavior:
     - drive:
         condition: boring
