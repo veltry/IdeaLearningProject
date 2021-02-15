@@ -14,3 +14,8 @@ cat:
   eyes_number: 2
   ear_number: 2
   paws_number: 4
+
+  behavior:
+    - eat:
+        condition: want to eat
+        actions: [quietly ask for food]
