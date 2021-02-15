@@ -3,3 +3,8 @@ cat:
   gender: male
   breed: scottish fold
   personality_type: outgoingness
+  fur_type: short haired
+  fur_pattern: tabby
+  fur_colors: [ red, white ]
+  tail_length: long
+  eyes_colors: [ green ]
