@@ -34,3 +34,9 @@ cat:
           - shout to the whole house
           - sharpen claws by the sofa
           - wake up a human in the middle of the night
+
+    - sleep:
+        condition: want to sleep
+        action:
+          - bury himself in a human's blanket
+          - bury himself in a favourite plaid
