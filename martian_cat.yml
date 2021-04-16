@@ -10,7 +10,7 @@ cat:
   eyes_colors: [ red, blue ]
 
   eyes_number:   2
-  ear_number:   2
+  ear_number:   4
   paws_number:   4
 
   behavior:
