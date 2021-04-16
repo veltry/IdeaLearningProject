@@ -9,9 +9,9 @@ cat:
   tail_length: short
   eyes_colors: [ red, blue ]
 
-  eyes_number:   2
-  ear_number:   4
-  paws_number:   4
+  eyes_number: 2
+  ears_number: 4
+  paws_number: 4
 
   favourite_things:
     -marsian flowers
